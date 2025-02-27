@@ -1,0 +1,27 @@
+ul li.argentina{
+    list-style-image: url("../images/argentina.png");
+}
+
+ul li.brasil{
+    list-style-image: url("../images/brasil.png");
+}
+
+ul li.chile{
+    list-style-image: url("../images/chile.png");
+}
+
+ul li.ecuador{
+    list-style-image: url("../images/ecuador.png");
+}
+
+ul li.peru{
+    list-style-image: url("../images/peru.png");
+}
+
+ol.romano{
+    list-style-type: lower-roman;
+}
+
+
+
+
